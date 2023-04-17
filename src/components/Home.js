@@ -1,5 +1,5 @@
 import React from 'react'
-
+import '../assets/css/heroslides.css';
 
 function Home() {
   return (
