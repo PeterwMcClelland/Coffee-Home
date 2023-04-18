@@ -37,6 +37,9 @@
   }
 }
 
+.background-img {
+  background: url(../src/assets/images/IMG_1417.JPG);
+}
 
 .navbar {
   text-decoration: none;

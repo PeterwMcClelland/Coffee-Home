@@ -38,13 +38,17 @@
     animation: imageFade 36s linear infinite 0s;
   }
   
-  /* .backgroundslides li:nth-child(1) span{
+   .backgroundslides li:nth-child(1) span{
+    background:url(../images/IMG_0143.JPG);
+    background-size: cover;
+   }
     
-	background: url(../images/grid.png);
+    
+	/*background: url(../images/grid.png);
   } */
   
   .backgroundslides li:nth-child(2) span{
-    background:url(../images/IMG_0143.JPG);
+    background:url(../images/P1220636.jpg);
     -webkit-animation-delay: 4s;
       -moz-animation-delay: 4s;
       -o-animation-delay: 4s;
